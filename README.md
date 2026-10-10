@@ -45,14 +45,3 @@ It relies on console input/output only
 Prashant Singh
 Open to ideas
 thank you
-
-
-
-
-
-
-
-
-
-if any suggestions open
-thank you
